@@ -34,20 +34,22 @@ Research interests mainly lie in the field of Large Language Models. Current res
 
 ####  Competitive Programming Awards
 
-- International Silver Medal in ICPC - Asia Regional Contest · *Dec 2023*
-	- *International Collegiate Programming Contest - Asia Regional Contest, Jinan Site*
-
-- National Silver Medal in CCPC 2023 · *Oct 2023*
-	- *China Collegiate Programming Contest, Guilin Site*
-- National Individual Third Prize in CCCC-GPLT 2023 Final · *Apr 2023*
-	- *China Collegiate Computing Contest - Group Programming Ladder Tournament*
-- Gold Medal in BUPT Campus Programming Contest for Freshmen · *Mar 2023*
+- **International Silver Medal in ICPC - Asia Regional Contest** · *Dec 2023*
+	*International Collegiate Programming Contest - Asia Regional Contest, Jinan Site*
+	
+- **National Silver Medal in CCPC 2023** · *Oct 2023*
+	*China Collegiate Programming Contest, Guilin Site*
+	
+- **National Individual Third Prize in CCCC-GPLT 2023 Final** · *Apr 2023*
+	*China Collegiate Computing Contest - Group Programming Ladder Tournament*
+	
+- **Gold Medal in BUPT Campus Programming Contest for Freshmen** · *Mar 2023*
 
 #### Other Awards
 
-- National First Prize in NECCS Final · *Jun 2023*
-	- *National English Competition for College Students*
+- **National First Prize in NECCS Final** · *Jun 2023*
+	*National English Competition for College Students*
 
 #### School Honors
 
-- Merit Student Scholarship · *Oct 2023*
+- **Merit Student Scholarship** · *Oct 2023*
