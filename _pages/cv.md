@@ -15,7 +15,7 @@ redirect_from:
 #### Bachelor of Computer Science
  *at Beijing University of Posts and Telecommunications* , 2022 - 2026, expected
 
-* **Accumulated GPA:** 91/100; **Technical GPA**: 97.5/100
+* **Cumulative GPA:** 91/100; **Major GPA**: 96.6/100
 * **Activities and societies:** Member of the ICPC Programming Team *(Gold medal in BUPT Campus Programming Contest for Freshmen, which is the team formation contest)*
 
 ### Research experience
@@ -45,11 +45,9 @@ Research interests mainly lie in the field of Large Language Models. Current res
 	
 - **Gold Medal in BUPT Campus Programming Contest for Freshmen** · *Mar 2023*  
 
-#### Other Awards
+#### Other Awards & Honors
 
 - **National First Prize in NECCS Final** · *Jun 2023*  
 	*National English Competition for College Students*
-
-#### School Honors
 
 - **Merit Student Scholarship** · *Oct 2023*   

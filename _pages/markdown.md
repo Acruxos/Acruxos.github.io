@@ -22,6 +22,8 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
+pdf link: [here](/files/paper1.pdf)
+
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
@@ -118,7 +120,10 @@ Do It Live
 
 ## Buttons
 
-Make any link standout more when applying the `.btn` class.
+Make any link standout more when applying the `.btn` class. 
+
+<a href="https://github.com" class="btn btn--small">Visit GitHub</a>
+
 
 ## Notices
 

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaotian Ye"
   avatar           : "profile.png"
-  bio              : "Data Mining & Large Language Models"
+  bio              : "CS Undergrad / Large Language Models"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yexiaotian@bupt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Acruxos"
+  github           : "Acruxos"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiaotian-ye/"
+  linkedin         : "xiaotian-ye"
   orcid            :
   pinterest        :
   soundcloud       :
