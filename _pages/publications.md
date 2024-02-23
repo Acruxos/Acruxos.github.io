@@ -9,4 +9,5 @@ Dagger symbol (†) indicates that the authors have contributed equally.
 
 - **Knowledge Graph Enhanced Large Language Model Editing**  
 	Mengqi Zhang†, <u>Xiaotian Ye</u>†, Qiang Liu, Pengjie Ren, Shu Wu, Zhumin Chen  
-	*in submission to ACL*  
+	[arxiv](https://arxiv.org/abs/2402.13593) | [pdf](/files/papers/GLAME.pdf)  
+	*Preprint, in submission to ACL*  

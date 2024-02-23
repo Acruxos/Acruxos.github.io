@@ -16,6 +16,7 @@ Currently, my research interests primarily focus on **Large Language Models, par
 
 ---
 
+- [2/21/2024] 🔥🔥Preprint [Knowledge Graph Enhanced Large Language Model Editing](https://arxiv.org/abs/2402.13593) released on arxiv!!
 - [12/3/2023] 🍾🍾🍾Winning a silver medal at the International Collegiate Programming Contest - Asia Regional Contest in Jinan!! Huge thanks to my amazing teammates for their invaluable support! 🥈👏
 - [10/29/2023] 🎉🎉Won a silver medal at China Collegiate Programming Contest, Guilin Site! 
 
