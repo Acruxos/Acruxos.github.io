@@ -86,7 +86,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=F0tij1oAAAAJ"
   email            : "yexiaotian@bupt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
