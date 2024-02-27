@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](/files/resume.pdf) to download the pdf version.
+{: .notice--info}
+
 ### Education
 
 ---
