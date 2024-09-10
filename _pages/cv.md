@@ -18,7 +18,7 @@ Click [here](/files/resume.pdf) to download the pdf version.
 #### Bachelor of Computer Science
  *at Beijing University of Posts and Telecommunications* , 2022 - 2026, expected
 
-* **Cumulative GPA:** 91.5/100; **Major GPA**: 94.8/100
+* **Cumulative GPA:** 92/100; **Major GPA**: 94.8/100
 * **Activities and societies:** Member of the ICPC Programming Team *(Gold medal in BUPT Campus Programming Contest for Freshmen, which is the team formation contest)*
 
 ### Research experience
