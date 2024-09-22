@@ -16,7 +16,7 @@ My research focuses on **Large Language Models, particularly their content safet
 
 ---
 
-- [2/21/2024] 🔥🔥Preprint [Knowledge Graph Enhanced Large Language Model Editing](https://arxiv.org/abs/2402.13593) released on arXiv!!
+- [9/20/2024] 🔥🔥Our paper [Knowledge Graph Enhanced Large Language Model Editing](https://arxiv.org/abs/2402.13593) gets accepted to EMNLP 2024 Main!!
 - [12/3/2023] 🍾🍾🍾Winning a silver medal at the International Collegiate Programming Contest - Asia Regional Contest in Jinan!! Huge thanks to my amazing teammates for their invaluable support! 🥈👏
 - [10/29/2023] 🎉🎉Won a silver medal at China Collegiate Programming Contest, Guilin Site! 
 
