@@ -10,15 +10,15 @@ redirect_from:
 
 Greetings! I'm Xiaotian Ye (叶笑天), second-year undergraduate in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), and a research intern at the Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). I work at [CRIPAC](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [NLPR](http://www.nlpr.ia.ac.cn/en/), where I am fortunate to be advised by [Prof. Shu Wu](http://shuwu.name/).
 
-My research focuses on **Large Language Models, particularly their content safety and interpretability**, and I'm currently working on **locating and editing factual knowledge in LLMs**. I am willing to contribute to the development of reliable and trustworthy AI systems, enhancing our ability to leverage these technologies to drive greater progress in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
+My research focuses on **Large Language Models, particularly their content safety and interpretability**, and I'm currently working on **editing knowledge in LLMs**, as well as investigating **jailbreaking techniques & defenses**. I am passionate about developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies to drive greater progress in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
 
 ### 🔥Recent Update
 
 ---
 
+- [10/11/2024] 🎉Manuscript [Uncovering Overfitting in Large Language Model Editing](https://arxiv.org/abs/2410.07819) released on arXiv!
 - [9/20/2024] 🔥🔥Our paper [Knowledge Graph Enhanced Large Language Model Editing](https://arxiv.org/abs/2402.13593) gets accepted to EMNLP 2024 Main!!
 - [12/3/2023] 🍾🍾🍾Winning a silver medal at the International Collegiate Programming Contest - Asia Regional Contest in Jinan!! Huge thanks to my amazing teammates for their invaluable support! 🥈👏
-- [10/29/2023] 🎉🎉Won a silver medal at China Collegiate Programming Contest, Guilin Site! 
 
 
 
