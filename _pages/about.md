@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I'm Xiaotian Ye (叶笑天), second-year undergraduate in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), and a research intern at the Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). I work at [CRIPAC](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [NLPR](http://www.nlpr.ia.ac.cn/en/), where I am fortunate to be advised by [Prof. Shu Wu](http://shuwu.name/).
+Greetings! I'm Xiaotian Ye (叶笑天), third-year undergraduate in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), and a research intern at the Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). I work at [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](http://shuwu.name/).
 
-My research focuses on **Large Language Models, particularly their content safety and interpretability**, and I'm currently working on **editing knowledge in LLMs**, as well as investigating **jailbreaking techniques & defenses**. I am passionate about developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies to drive greater progress in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
+My research focuses on **Safety for LLMs/NLP**, and I am generally interested in different topics like **Knowledge Editing, Unlearning, Jailbreaking and Privacy issues**. I have a broad interest in developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
 
 ### 🔥Recent Update
 
