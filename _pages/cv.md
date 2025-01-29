@@ -18,7 +18,7 @@ Click [here](/files/resume.pdf) to download the pdf version.
 #### Bachelor of Computer Science
  *at Beijing University of Posts and Telecommunications* , 2022 - 2026, expected
 
-* **Cumulative GPA:** 92/100; **Major GPA**: 94.8/100
+* **Cumulative GPA:** 92.17/100;
 * **Activities and societies:** Member of the ICPC Programming Team *(Gold medal in BUPT Campus Programming Contest for Freshmen, which is the team formation contest)*
 
 ### Research experience
@@ -27,9 +27,9 @@ Click [here](/files/resume.pdf) to download the pdf version.
 
 #### Research Intern
 
-*at CRIPAC & NLPR, CASIA* , Jul 2023 - Present
+*at NLPR & MAIS, CASIA* , Jul 2023 - Present
 
-Research interests mainly lie in the field of Large Language Models. Current research directions include knowledge locating and editing of LLMs. I am supervised by [Prof. Shu Wu](http://shuwu.name/) ,working with [Prof. Mengqi Zhang](https://zm7.github.io/).
+Research interests mainly lie in the field of LLM content safety. Current research directions include knowledge editing and unlearning of LLMs. I am supervised by [Prof. Shu Wu](http://shuwu.name/) ,working with [Prof. Mengqi Zhang](https://zm7.github.io/).
 
 ### Awards and Honors
 
