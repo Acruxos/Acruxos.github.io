@@ -21,14 +21,14 @@ Dagger symbol (†) indicates that the authors have contributed equally.
 
 #### Preprints & Other Publications
 	
-- **Disentangling Knowledge Representations for Large Language Model Editing**
-	Mengqi Zhang†, Zisheng Zhou†, <u>Xiaotian Ye</u>, Zhaochun Ren, Zhumin Chen, Pengjie Ren
+- **Disentangling Knowledge Representations for Large Language Model Editing**  
+	Mengqi Zhang†, Zisheng Zhou†, <u>Xiaotian Ye</u>, Zhaochun Ren, Zhumin Chen, Pengjie Ren  
 	*Preprint, in submission*
 
-- **UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**
-	Wenyu wang, Mengqi Zhang, <u>Xiaotian Ye</u>, Zhaochun Ren, Zhumin Chen, Pengjie Ren
+- **UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**  
+	Wenyu wang, Mengqi Zhang, <u>Xiaotian Ye</u>, Zhaochun Ren, Zhumin Chen, Pengjie Ren  
 	*Preprint, in submission*
 
-- **KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing**
-	Mengqi Zhang†, Bowen Fang†, Qiang Liu, <u>Xiaotian Ye</u>, Shu Wu, Pengjie Ren, Zhumin Chen et al.
+- **KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing**  
+	Mengqi Zhang†, Bowen Fang†, Qiang Liu, <u>Xiaotian Ye</u>, Shu Wu, Pengjie Ren, Zhumin Chen et al.  
 	*Preprint, in submission*
