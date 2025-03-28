@@ -29,28 +29,15 @@ Click [here](/files/resume.pdf) to download the pdf version.
 
 *at NLPR & MAIS, CASIA* , Jul 2023 - Present
 
-Research interests mainly lie in the field of LLM content safety. Current research directions include knowledge editing and unlearning of LLMs. I am supervised by [Prof. Shu Wu](http://shuwu.name/) ,working with [Prof. Mengqi Zhang](https://zm7.github.io/).
+Research interests mainly lie in the field of Content Safety & Knowledge Representation Learning for LLMs, especially knowledge editing and unlearning. I am supervised by [Prof. Shu Wu](http://shuwu.name/), working with [Prof. Mengqi Zhang](https://zm7.github.io/).
 
 ### Awards and Honors
 
 ---
 
-####  Competitive Programming Awards
-
-- **International Silver Medal in ICPC - Asia Regional Contest** · *Dec 2023*  
-	*International Collegiate Programming Contest - Asia Regional Contest, Jinan Site*
-	
-- **National Silver Medal in CCPC 2023** · *Oct 2023*  
-	*China Collegiate Programming Contest, Guilin Site*
-	
-- **National Individual Third Prize in CCCC-GPLT 2023 Final** · *Apr 2023*  
-	*China Collegiate Computing Contest - Group Programming Ladder Tournament*
-	
-- **Gold Medal in BUPT Campus Programming Contest for Freshmen** · *Mar 2023*  
-
-#### Other Awards & Honors
-
-- **National First Prize in NECCS Final** · *Jun 2023*  
-	*National English Competition for College Students*
-
-- **Merit Student Scholarship** · *Oct 2023*   
+- **International Silver Medal in ICPC - Asia Regional Contest** · *Dec 2023*
+- **National Silver Medal in CCPC 2023** · *Oct 2023*
+- **National Individual Third Prize in CCCC-GPLT 2023 Final** · *Apr 2023*
+- **National First Prize in NECCS Final** · *Jun 2023*
+- **BUPT Merit Student Scholarship** · *Oct 2023*
+- **Gold Medal in BUPT Campus Programming Contest for Freshmen** · *Mar 2023*
