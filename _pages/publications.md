@@ -20,13 +20,19 @@ Dagger symbol (†) indicates that the authors have contributed equally.
 	*EMNLP 2024 Main*  
 
 #### Preprints & Other Publications
-	
+
+- **Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms**  
+    <u>Xiaotian Ye</u>, Mengqi Zhang, Shu Wu  
+    [arxiv](https://arxiv.org/abs/2504.06823) | [pdf](/files/papers/blog_knowledge.pdf)  
+    *Preprint, in submission*  
+    
 - **Disentangling Knowledge Representations for Large Language Model Editing**  
 	Mengqi Zhang†, Zisheng Zhou†, <u>Xiaotian Ye</u>, Zhaochun Ren, Zhumin Chen, Pengjie Ren  
 	*Preprint, in submission*
 
 - **UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**  
 	Wenyu wang, Mengqi Zhang, <u>Xiaotian Ye</u>, Zhaochun Ren, Zhumin Chen, Pengjie Ren  
+	[arxiv](https://arxiv.org/abs/2503.04693) | [pdf](/files/papers/UIPE.pdf)  
 	*Preprint, in submission*
 
 - **KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing**  
