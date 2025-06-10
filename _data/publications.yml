@@ -1,5 +1,12 @@
 main:
 
+  - title: "LLM Unlearning Should Be Form-Independent"
+    authors: "<strong><u>Xiaotian Ye</u></strong>, Mengqi Zhang, Shu Wu"
+    conference_short: "Preprint"
+    conference: "Preprint, in submission"
+    pdf: https://arxiv.org/abs/2506.07795
+    image: /images/ROCR.png
+
   - title: "Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms"
     authors: "<strong><u>Xiaotian Ye</u></strong>, Mengqi Zhang, Shu Wu"
     conference_short: Preprint
@@ -11,8 +18,7 @@ main:
     authors: "Mengqi Zhang†, Zisheng Zhou†, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
     conference_short: Preprint
     conference: Preprint, in submission
-    # arxiv: https://arxiv.org/abs/2504.06823
-    # pdf: https://arxiv.org/pdf/2504.06823.pdf
+    pdf: https://arxiv.org/abs/2505.18774
     image: /images/DiKE.png
 
   - title: "UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets"
