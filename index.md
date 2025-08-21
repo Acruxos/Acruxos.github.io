@@ -11,14 +11,15 @@ Hi! This is Xiaotian Ye.
 I'm a third-year undergraduate in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), and a research intern at the Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). I work at [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Prof. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
 
 
-My research focuses on **Safety for LLMs/NLP**, and I am generally interested in a wide range of topics including **Knowledge Editing, Unlearning, Jailbreaking and Privacy issues**. I have a broad interest in developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
+My research focuses on **Knowledge Representation Learning for LLMs & Safety for LLMs/NLP**, and I am generally interested in a wide range of topics including **Knowledge Editing, Unlearning, Jailbreaking and Privacy issues**. I have a broad interest in developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
 
 ## Recent Update
 
+- [8/21/2025] 🔥Two papers get accepted to EMNLP 2025!
 - [6/9/2025] 🎉Manuscript [LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795) released on arXiv!
 - [2/11/2025] 🎉 [Uncovering Overfitting in Large Language Model Editing](https://arxiv.org/abs/2410.07819) gets accepted to ICLR 2025 as Spotlight! See you in Singapore!
-- [9/20/2024] 🔥 Our paper [Knowledge Graph Enhanced Large Language Model Editing](https://arxiv.org/abs/2402.13593) gets accepted to EMNLP 2024 Main!!
-- [12/3/2023] 🍾 Winning a silver medal at the International Collegiate Programming Contest - Asia Regional Contest in Jinan!! Huge thanks to my amazing teammates for their invaluable support! 🥈👏
+- [9/20/2024] 🔥 Our paper [Knowledge Graph Enhanced Large Language Model Editing](https://arxiv.org/abs/2402.13593) gets accepted to EMNLP 2024 Main!
+- [12/3/2023] 🍾 Winning a silver medal at the International Collegiate Programming Contest - Asia Regional Contest in Jinan! Huge thanks to my amazing teammates for their invaluable support! 🥈👏
 
 <h2 style="margin: 0px 0px -15px;">Research Highlights</h2>
 

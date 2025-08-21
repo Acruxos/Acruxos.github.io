@@ -7,12 +7,20 @@ main:
     pdf: https://arxiv.org/abs/2506.07795
     image: /images/ROCR.png
 
-  - title: "Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms"
-    authors: "<strong><u>Xiaotian Ye</u></strong>, Mengqi Zhang, Shu Wu"
-    conference_short: Preprint
-    conference: Blogpost preprint, in submission
-    image: /images/Hypothetical_Blog.png
-    pdf: /files/papers/blog_knowledge.pdf
+  - title: "UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets"
+    authors: "Wenyu wang, Mengqi Zhang, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
+    conference_short: EMNLP 2025 Findings
+    conference: "Findings of the association for computational linguistics: EMNLP 2025"
+    arxiv: https://arxiv.org/abs/2503.04693
+    pdf: https://arxiv.org/pdf/2503.04693.pdf
+    image: /images/UIPE.png
+
+  - title: "KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing"
+    authors: "Mengqi Zhang†, Bowen Fang†, Qiang Liu, <strong><u>Xiaotian Ye</u></strong>, Shu Wu, Pengjie Ren, Zhumin Chen et al."
+    conference: "Findings of the association for computational linguistics: EMNLP 2025"
+    conference_short: EMNLP 2025 Findings
+    pdf: https://arxiv.org/pdf/2408.12456
+    image: /images/KELE.png
 
   - title: "Disentangling Knowledge Representations for Large Language Model Editing"
     authors: "Mengqi Zhang†, Zisheng Zhou†, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
@@ -21,18 +29,12 @@ main:
     pdf: https://arxiv.org/abs/2505.18774
     image: /images/DiKE.png
 
-  - title: "UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets"
-    authors: "Wenyu wang, Mengqi Zhang, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
+  - title: "Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms"
+    authors: "<strong><u>Xiaotian Ye</u></strong>, Mengqi Zhang, Shu Wu"
     conference_short: Preprint
-    conference: Preprint, in submission
-    arxiv: https://arxiv.org/abs/2503.04693
-    pdf: https://arxiv.org/pdf/2503.04693.pdf
-    image: /images/UIPE.png
+    conference: Blogpost preprint, in submission
+    image: /images/Hypothetical_Blog.png
+    pdf: /files/papers/blog_knowledge.pdf
 
-  - title: "KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing"
-    authors: "Mengqi Zhang†, Bowen Fang†, Qiang Liu, <strong><u>Xiaotian Ye</u></strong>, Shu Wu, Pengjie Ren, Zhumin Chen et al."
-    conference: Preprint, in submission
-    conference_short: Preprint
-    pdf: https://arxiv.org/pdf/2408.12456
-    image: /images/KELE.png
+
 
