@@ -7,8 +7,9 @@ permalink: /cv/
 <h2 style="margin: 80px 0px 10px;">Curriculum Vitae</h2>
 
 <div style="border: 1px solid #ccc; padding: 11px; background-color: #f9f9f9; color: #333; border-radius: 5px; margin: 20px 0px 30px;" >
-<li style="color:#13294B;">Click <a href="/files/resume.pdf" target="_blank">here</a> to download the pdf version.</li>
+<li style="color:#13294B; margin: 0px 30px 0px;">Click <a href="/files/resume.pdf" target="_blank">here</a> to download the pdf version.</li>
 </div>
+
 
 
 <!-- <div class="cv-content"> -->
@@ -19,7 +20,7 @@ permalink: /cv/
 <p style="margin-bottom: 5px;">
 <em>at Beijing University of Posts and Telecommunications</em> , 2022 - 2026, expected  
 </p>
-- **Cumulative GPA:** 92.17/100;
+- **Cumulative GPA:** 92.32/100;
 - **Activities and societies:** Member of the ICPC Programming Team *(Gold medal in BUPT Campus Programming Contest for Freshmen, which is the team formation contest)*
 
 
@@ -34,6 +35,8 @@ Research interests mainly lie in the field of Content Safety & Knowledge Represe
 
 ## Awards and Honors
 
+- **CCF (China Computer Federation) Elite Collegiate Award** · *Sep 2025*  
+	*Annually granted to 100 undergraduates nationwide for outstanding academic performance, research, and social responsibility, with each university nominating up to 4 candidates.*
 - **International Silver Medal in ICPC - Asia Regional Contest** · *Dec 2023*
 - **National Silver Medal in CCPC 2023** · *Oct 2023*
 - **National Individual Third Prize in CCCC-GPLT 2023 Final** · *Apr 2023*

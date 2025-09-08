@@ -15,6 +15,7 @@ My research focuses on **Knowledge Representation Learning for LLMs & Safety for
 
 ## Recent Update
 
+- [9/4/2025] 🎉Thrilled to be awarded the CCF Elite Collegiate Award! Heading to CNCC2025@Harbin for the ceremony!
 - [8/21/2025] 🔥Two papers get accepted to EMNLP 2025!
 - [6/9/2025] 🎉Manuscript [LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795) released on arXiv!
 - [2/11/2025] 🎉 [Uncovering Overfitting in Large Language Model Editing](https://arxiv.org/abs/2410.07819) gets accepted to ICLR 2025 as Spotlight! See you in Singapore!

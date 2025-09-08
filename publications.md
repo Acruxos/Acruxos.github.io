@@ -8,7 +8,7 @@ permalink: /publications/
 <h2 style="margin: 80px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="{{site.google_scholar}}" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="{{site.semantic_scholar}}" target="_blank" style="font-size:15px;">Semantic Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div style="border: 1px solid #ccc; padding: 11px; background-color: #f9f9f9; color: #333; border-radius: 5px; margin: 30px 0px -35px;" >
-<li style="color:#13294B;">Dagger (†) indicates equal contribution as co-first authors.</li>
+<li style="color:#13294B; margin: 0px 30px 0px;">Dagger (†) indicates equal contribution as co-first authors.</li>
 </div>
 
 
