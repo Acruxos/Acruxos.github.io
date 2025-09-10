@@ -1,5 +1,12 @@
 main:
 
+  - title: "LLM Unlearning Should Be Form-Independent"
+    authors: "<strong><u>Xiaotian Ye</u></strong>, Mengqi Zhang, Shu Wu"
+    conference_short: "S&P 2026"
+    conference: "IEEE Symposium on Security and Privacy (S&P), 2026"
+    pdf: https://arxiv.org/abs/2506.07795
+    image: /images/ROCR.png
+
   - title: "Uncovering Overfitting in Large Language Model Editing"
     authors: "Mengqi Zhang†, <strong><u>Xiaotian Ye</u></strong>†, Qiang Liu, Pengjie Ren, Shu Wu, Zhumin Chen"
     conference_short: "ICLR 2025 Spotlight"
