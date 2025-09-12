@@ -5,7 +5,9 @@ main:
     conference_short: "S&P 2026"
     conference: "IEEE Symposium on Security and Privacy (S&P), 2026"
     pdf: https://arxiv.org/abs/2506.07795
+    code: https://github.com/Acruxos/ORT
     image: /images/ROCR.png
+    notes: Oral Presentation
 
   - title: "Uncovering Overfitting in Large Language Model Editing"
     authors: "Mengqi Zhang†, <strong><u>Xiaotian Ye</u></strong>†, Qiang Liu, Pengjie Ren, Shu Wu, Zhumin Chen"
