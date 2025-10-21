@@ -8,10 +8,10 @@ layout: homepage
 
 Hi! This is Xiaotian Ye.
 
-I'm a third-year undergraduate in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), and a research intern at the Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). I work at [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Prof. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
+I'm a senior undergraduate in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), and a research intern at the Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). I work at [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Dr. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
 
 
-My research focuses on **Knowledge Representation Learning for LLMs & Safety for LLMs/NLP**, and I am generally interested in a wide range of topics including **Knowledge Editing, Unlearning, Jailbreaking and Privacy issues**. I have a broad interest in developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
+My research focuses on the intersection of **knowledge mechanisms** and the **safety & trustworthiness of foundation models (LLMs/VLMs)**, and I am generally interested in a wide range of topics such as **interpretability, knowledge editing, unlearning, alignment, and agentic safety**. I have a broad interest in developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
 
 ## Recent Update
 
