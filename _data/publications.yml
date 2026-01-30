@@ -1,5 +1,11 @@
 main:
 
+  - title: "Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse"
+    authors: "Chi Zhang, Mengqi Zhang, <strong><u>Xiaotian Ye</u></strong>, Runxi Cheng, Zisheng Zhou, Ying Zhou, Pengjie Ren, Zhumin Chen"
+    conference_short: Preprint
+    conference: Preprint, in submission
+    pdf: https://arxiv.org/pdf/2601.11042
+    image: /images/REVIVE.png
 
   - title: "UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets"
     authors: "Wenyu wang, Mengqi Zhang, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
@@ -18,8 +24,8 @@ main:
 
   - title: "Disentangling Knowledge Representations for Large Language Model Editing"
     authors: "Mengqi Zhang†, Zisheng Zhou†, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
-    conference_short: Preprint
-    conference: Preprint, in submission
+    conference_short: ICLR 2026
+    conference: International Conference on Learning Representations
     pdf: https://arxiv.org/abs/2505.18774
     image: /images/DiKE.png
 
