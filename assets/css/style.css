@@ -519,13 +519,13 @@ ul ul {
 }
 
 /* 正文区域字体放大（不影响侧边栏、页首、页尾） */
-section {
-  font-size: 18px;
+/* section {
+  font-size: 17px;
 }
 
 section h1 {
-  font-size: 32px;
-}
+  font-size: 30px;
+} */
 
 .about-intro-line {
   margin: 0 0 20px;
