@@ -16,7 +16,7 @@ layout: homepage
   </details>
 </div>
 
-I'm a final-year undergraduate student in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/). I will graduate in summer 2026 and join the [University of Cambridge](https://www.cam.ac.uk/) as an M.Phil. student in Fall 2026.
+I'm a final-year undergraduate student in Computer Science at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/). I will graduate in summer 2026 and join the [University of Cambridge](https://www.cam.ac.uk/) as an M.Phil. student in Fall 2026.
 
 I am currently a research intern at the Institute of Automation, Chinese Academy of Sciences ([CASIA](http://english.ia.cas.cn/)), affiliated with [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml) and [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Dr. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
 
@@ -26,7 +26,7 @@ My research focuses on understanding and controlling foundation models (especial
 ## Recent Update
 
 - [Apr. 2026] [Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/pdf/2601.11042) gets accepted to ACL 2026!
-- [Apr. 2026] [Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774) gets accepted to ICLR 2026!
+- [Jan. 2026] [Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774) gets accepted to ICLR 2026!
 - [Oct. 2025] Thrilled to be awarded the CCF Elite Collegiate Award! Heading to CNCC2025@Harbin for the ceremony!
 - [Sept. 2025] [LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795) gets accepted to S&P 2026!! See you in San Francisco!
 - [Aug. 2025] Two papers get accepted to EMNLP 2025!
