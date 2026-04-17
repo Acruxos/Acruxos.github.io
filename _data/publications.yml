@@ -2,10 +2,24 @@ main:
 
   - title: "Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse"
     authors: "Chi Zhang, Mengqi Zhang, <strong><u>Xiaotian Ye</u></strong>, Runxi Cheng, Zisheng Zhou, Ying Zhou, Pengjie Ren, Zhumin Chen"
-    conference_short: Preprint
-    conference: Preprint, in submission
+    conference_short: ACL 2026
+    conference: Annual Meeting of the Association for Computational Linguistics
     pdf: https://arxiv.org/pdf/2601.11042
     image: /images/REVIVE.png
+
+  - title: "Disentangling Knowledge Representations for Large Language Model Editing"
+    authors: "Mengqi Zhang†, Zisheng Zhou†, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
+    conference_short: ICLR 2026
+    conference: International Conference on Learning Representations
+    pdf: https://arxiv.org/abs/2505.18774
+    image: /images/DiKE.png
+
+  - title: "Uncovering Context Reliance in Unstructured Knowledge Editing"
+    authors: "Zisheng Zhou, Mengqi Zhang, Shiguang Wu, <strong><u>Xiaotian Ye</u></strong>, Chi Zhang, Zhumin Chen, Pengjie Ren"
+    conference_short: Preprint
+    conference: Preprint, in submission
+    pdf: https://arxiv.org/pdf/2602.19043
+    image: /images/NTP.png
 
   - title: "UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets"
     authors: "Wenyu wang, Mengqi Zhang, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
@@ -22,19 +36,9 @@ main:
     pdf: https://arxiv.org/pdf/2408.12456
     image: /images/KELE.png
 
-  - title: "Disentangling Knowledge Representations for Large Language Model Editing"
-    authors: "Mengqi Zhang†, Zisheng Zhou†, <strong><u>Xiaotian Ye</u></strong>, Zhaochun Ren, Zhumin Chen, Pengjie Ren"
-    conference_short: ICLR 2026
-    conference: International Conference on Learning Representations
-    pdf: https://arxiv.org/abs/2505.18774
-    image: /images/DiKE.png
-
   - title: "Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms"
     authors: "<strong><u>Xiaotian Ye</u></strong>, Mengqi Zhang, Shu Wu"
     conference_short: Preprint
     conference: Blogpost preprint, in submission
     image: /images/Hypothetical_Blog.png
     pdf: /files/papers/blog_knowledge.pdf
-
-
-

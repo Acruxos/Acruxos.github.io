@@ -16,15 +16,19 @@ layout: homepage
   </details>
 </div>
 
-I'm a senior undergraduate in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), and a research intern at the Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). I work at [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Dr. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
+I'm a final-year undergraduate student in Computer Science at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/). I will graduate in summer 2026 and join the [University of Cambridge](https://www.cam.ac.uk/) as an M.Phil. student in Fall 2026.
 
+I am currently a research intern at the Institute of Automation, Chinese Academy of Sciences ([CASIA](http://english.ia.cas.cn/)), affiliated with [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml) and [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Dr. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
 
-My research focuses on the intersection of **knowledge mechanisms** and the **safety & trustworthiness of foundation models (LLMs/VLMs)**, and I am generally interested in a wide range of topics such as **interpretability, knowledge editing, unlearning, alignment, and agentic safety**. I have a broad interest in developing reliable and trustworthy AI systems, enhancing our ability to leverage these technologies in various fields. Beyond my research, I am also passionate about Competitive Programming and have received a silver medal in ICPC - Asia Regional Contest.
+My research focuses on understanding and controlling foundation models (especially their knowledge and memory), and on using these foundations to support progress across diverse areas, making AI systems more reliable and trustworthy in the real world. I am broadly interested in topics including interpretability, knowledge editing & unlearning, memory management, and safety/alignment.
+
 
 ## Recent Update
 
+- [Apr. 2026] [Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/pdf/2601.11042) gets accepted to ACL 2026!
+- [Apr. 2026] [Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774) gets accepted to ICLR 2026!
+- [Oct. 2025] Thrilled to be awarded the CCF Elite Collegiate Award! Heading to CNCC2025@Harbin for the ceremony!
 - [Sept. 2025] [LLM Unlearning Should Be Form-Independent](https://arxiv.org/abs/2506.07795) gets accepted to S&P 2026!! See you in San Francisco!
-- [Sept. 2025] Thrilled to be awarded the CCF Elite Collegiate Award! Heading to CNCC2025@Harbin for the ceremony!
 - [Aug. 2025] Two papers get accepted to EMNLP 2025!
 - [Feb. 2025] [Uncovering Overfitting in Large Language Model Editing](https://arxiv.org/abs/2410.07819) gets accepted to ICLR 2025 as Spotlight! See you in Singapore!
 
