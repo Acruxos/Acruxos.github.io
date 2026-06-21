@@ -16,7 +16,7 @@ layout: homepage
   </details>
 </div>
 
-I'm a final-year undergraduate student in Computer Science at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/). I will graduate in summer 2026 and join the [University of Cambridge](https://www.cam.ac.uk/) as an M.Phil. student in Fall 2026.
+I'm an incoming M.Phil. student in Computer Science at [University of Cambridge](https://www.cam.ac.uk/).
 
 I am currently a research intern at the Institute of Automation, Chinese Academy of Sciences ([CASIA](http://english.ia.cas.cn/)), affiliated with [NLPR](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml) and [MAIS](https://mais.ia.ac.cn/), where I am fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Dr. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
 
