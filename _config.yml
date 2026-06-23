@@ -1,16 +1,16 @@
 # Basic Information 
 title: Xiaotian Ye
-position: Undergraduate Student
-affiliation: BUPT SCS
-# affiliation_link: https://www.bupt.edu.cn/
+position: MPhil Student in Computer Science
+affiliation: University of Cambridge
+# affiliation_link: https://www.cam.ac.uk/
 # affiliation_logo: /assets/img/profile.png
-email: yexiaotian[AT]bupt.edu.cn
+email: xiaotian.ye.mail[AT]gmail.com
 
 
 # Search Engine Optimization (SEO)
 keywords: xiaotian ye, ye xiaotian, xiaotianye, yexiaotian, 叶笑天
 canonical: https://xiaotianye.me
-description: Xiaotian Ye is an undergraduate student at Beijing University of Post and Telecommunications. His research lies in machine learning, large language models, and knowledge representation.
+description: Xiaotian Ye is an MPhil student in Computer Science at the University of Cambridge. His research focuses on understanding and controlling foundation models, with interests in interpretability, knowledge editing & unlearning, memory management, and safety/alignment.
 
 # The option is used to enable the Illinois template.
 # enable_hopkins_logo: true
