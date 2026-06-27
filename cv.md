@@ -16,7 +16,7 @@ permalink: /cv/
 
 ## Education
 
-<h3 style="margin: 0px 0px 5px;">Bachelor of Computer Science</h3>
+<h3 style="margin: 0px 0px 5px;">B.Eng. in Computer Science</h3>
 <p style="margin-bottom: 5px;">
 <em>at Beijing University of Posts and Telecommunications</em> , 2022 - 2026, expected  
 </p>
