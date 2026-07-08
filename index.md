@@ -37,7 +37,7 @@ My research focuses on understanding and controlling foundation models (especial
 
 {% include_relative _includes/research_highlights.md %}
 
-## Contact Information
+<!-- ## Contact Information
 
 
 Feel free to reach out if you want to chat or interested in my work!
@@ -50,11 +50,11 @@ School of Computer Science
 Beijing University of Posts and Telecommunications (BUPT)
 <br />
 10 Xitucheng Road, 100088, Beijing, China
-</div>
+</div> -->
 
 
-<div style="text-align: center; width: 100%; margin: 5em auto; max-height: 12em; overflow: hidden; pointer-events: auto;">
+<!-- <div style="text-align: center; width: 100%; margin: 5em auto; max-height: 12em; overflow: hidden; pointer-events: auto;">
   <div style="transform: scale(0.3); transform-origin: center top; margin: 0;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ site.clustrmaps_id }}"></script>
   </div>
-</div>
+</div> -->
