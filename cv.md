@@ -20,15 +20,15 @@ permalink: /cv/
 <p style="margin-bottom: 5px;">
 <em>at Beijing University of Posts and Telecommunications</em> , 2022 - 2026, expected  
 </p>
-- **Cumulative GPA:** 92.32/100;
-- **Activities and societies:** Member of the ICPC Programming Team *(Gold medal in BUPT Campus Programming Contest for Freshmen, which is the team formation contest)*
+- **Cumulative GPA:** 92.17/100;
+- **Activities and societies:** Member of the ICPC Programming Team
 
 
 ## Research experience
 
 <h3 style="margin: 0px 0px 5px;"> Research Intern </h3>
 <p style="margin-bottom: 5px;">
-<em>at NLPR & MAIS, CASIA</em> , Jul 2023 - Present  
+<em>at NLPR & MAIS, CASIA</em> , Jun 2023 - Jun 2026  
 </p>
 
 Research interests mainly lie in the field of Content Safety & Knowledge Representation Learning for LLMs, especially knowledge editing and unlearning. I am supervised by [Prof. Shu Wu](http://shuwu.name/), working with [Prof. Mengqi Zhang](https://zm7.github.io/).

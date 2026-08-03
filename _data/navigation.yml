@@ -1,7 +1,7 @@
 main:
 
   - title: "Curriculum Vitae"
-    url: cv/
+    url: files/resume.pdf
     right: true 
 
   # - title: "Services"

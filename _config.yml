@@ -38,8 +38,9 @@ footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project.
-# Otherwise, the analytics information of your website will be recorded to my MapMyVisitors account.
+# Otherwise, the analytics information of your website will be recorded to my accounts.
 mapmyvisitors_id: O_im6rCkHX-9cLDRn7DZ7klUAO7tnDCOlsanrY_gD5k
+google_analytics: G-912WJVHCFH
 
 # The following files will be removed from the generated website.
 exclude:
