@@ -53,8 +53,8 @@ Beijing University of Posts and Telecommunications (BUPT)
 </div> -->
 
 
-<!-- <div style="text-align: center; width: 100%; margin: 5em auto; max-height: 12em; overflow: hidden; pointer-events: auto;">
+<div style="text-align: center; width: 100%; margin: 5em auto; max-height: 12em; overflow: hidden; pointer-events: auto;">
   <div style="transform: scale(0.3); transform-origin: center top; margin: 0;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ site.clustrmaps_id }}"></script>
+    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_id }}"></script>
   </div>
-</div> -->
+</div>

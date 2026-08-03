@@ -37,9 +37,9 @@ footnote: Powered by Jekyll and Minimal Light theme.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: IAGgowD5DDH0zd6UpcCd6uQu_3zP8YlAiYJmVKJQ7OA
+# Please remove the following lines about analytics services if you fork my project.
+# Otherwise, the analytics information of your website will be recorded to my MapMyVisitors account.
+mapmyvisitors_id: O_im6rCkHX-9cLDRn7DZ7klUAO7tnDCOlsanrY_gD5k
 
 # The following files will be removed from the generated website.
 exclude:
