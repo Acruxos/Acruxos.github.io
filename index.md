@@ -18,7 +18,7 @@ layout: homepage
 
 I'm an incoming M.Phil. student in Computer Science at the [University of Cambridge](https://www.cam.ac.uk/), and a member of [Hughes Hall](https://www.hughes.cam.ac.uk/). Prior to this, I spent several years as a research intern at [CASIA](http://english.ia.cas.cn/), where I was fortunate to be advised by [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ) and work with [Dr. Mengqi Zhang](https://scholar.google.com/citations?user=8-tCnnUAAAAJ).
 
-My work focuses on understanding and generalizably controlling large language models (LLMs), particularly how a (relatively) small number of samples can enable truly generalizable knowledge updating, capability evolution, value alignment, and behavioral control. I am likewise interested in closely related topics such as interpretability, evaluation, and safety issues, with the ultimate goal of making LLMs more robust and trustworthy for real-world deployment across diverse domains, thereby benefiting society at large.
+My work focuses on understanding and generalizably controlling large language models (LLMs), particularly how a (relatively) small number of samples can enable truly generalizable knowledge updating, capability evolution, value alignment, and behavioral control. I am likewise interested in closely related topics such as interpretability, evaluation, and safety issues, with the ultimate goal of making LLMs more robust and trustworthy for real-world deployment, thereby empowering diverse domains and benefiting society at large.
 
 
 ## Recent Update
